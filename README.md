@@ -19,7 +19,21 @@
 </div>
 
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
+<br>
+
+<div align="center">
+  <h2 style="color: #0A2463;"> 👩‍💻 Estudante de IA & RPA 🤖 </h2>
+  
+  <img src="https://i.pinimg.com/originals/cd/53/2c/cd532c58909c2565575775f284988716.gif" width="80%" style="border-radius: 15px; border: 2px solid #0A2463;" alt="AI Neural Network Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 
 <h3 align="center" style="color: #0A2463;">🤖 Transformando café em código e dados em inteligência</h3>
