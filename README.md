@@ -54,8 +54,13 @@
 <h3 align="center" style="color: #0A2463;">🤖 Transformando café em código e dados em inteligência</h3>
 
 <p align="center">
- Sou estudante de Inteligência Artificial focada em resolver problemas reais. Atualmente mergulhada no mundo dos <b>Algoritmos Genéticos</b>, <b>Visão Computacional</b> e <b>Automação Robótica (RPA)</b>.
+Sou <b>Desenvolvedor Java</b> como base principal da minha atuação, com foco em construção de soluções robustas, escaláveis e orientadas a boas práticas de engenharia de software.
+<br><br>
+Atualmente atuo diretamente com <b>Inteligência Artificial aplicada</b>, com ênfase em <b>implementações robustas de RAG (Retrieval-Augmented Generation)</b>, integrando LLMs a contextos corporativos reais para automação, análise e suporte à decisão.
+<br><br>
+Sou <b>pós-graduado em Engenharia de Inteligência Artificial</b> e atualmente curso <b>Pós-Graduação em Desenvolvimento em IA pela FIAP</b>, unindo desenvolvimento backend, arquitetura e IA aplicada em ambientes de produção.
 </p>
+
 
 <div align="center">
   
