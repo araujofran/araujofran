@@ -2,8 +2,8 @@ name: Generate Pac-Man Game
 
 on:
   schedule:
-    - cron: "0 */24 * * *" # Roda a cada 24h
-  workflow_dispatch:
+    - cron: "0 */24 * * *" # Roda a cada 24h automaticamente
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   generate:
@@ -13,11 +13,17 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Gera o gráfico com Fantasmas
+      # Gera o gráfico com Fantasmas e CORES PERSONALIZADAS
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          bg_color: '#000000'             # Fundo Preto Absoluto
+          color_month_names: '#ffffff'    # Nomes dos Meses em Branco Brilhante
+          color_snake: '#fed700'          # Cor do Pac-Man
+          color_ghosts: '#ff0000,#ffb8ae,#00ff00,#00ffff' # Cores dos Fantasmas
+          # Cores dos pontinhos (commits) do verde escuro ao claro
+          color_dots: '#1e6823,#44a340,#8cc665' 
 
       # Salva a imagem no seu GitHub
       - name: push pacman-contribution-graph.svg to the output branch
