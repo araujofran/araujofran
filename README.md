@@ -8,12 +8,9 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" height="220px" style="object-fit:cover; border-radius:12px;" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" alt="AI Code Animation"/>
-</div>
 
 
 
