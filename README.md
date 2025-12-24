@@ -61,6 +61,56 @@ Atualmente atuo diretamente com <b>Inteligência Artificial aplicada</b>, com ê
 Sou <b>pós-graduado em Engenharia de Inteligência Artificial</b> e atualmente curso <b>Pós-Graduação em Desenvolvimento em IA pela FIAP</b>, unindo desenvolvimento backend, arquitetura e IA aplicada em ambientes de produção.
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <!-- JAVA (PRINCIPAL) -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" />
+      </td>
+
+      <!-- BACKEND / ENGINEERING -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" />
+      </td>
+
+      <!-- IA / PYTHON -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
+      </td>
+
+      <!-- RAG / LLM -->
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="44" />
+      </td>
+
+      <!-- LANGCHAIN / PIPELINES -->
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="44" />
+      </td>
+
+      <!-- CLOUD -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" />
+      </td>
+
+      <!-- DATA -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" />
+      </td>
+
+      <!-- GIT -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
+      </td>
+
+      <!-- DOCKER -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   
