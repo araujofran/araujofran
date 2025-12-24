@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-  <h2 style="color: #0A2463;"> 👩‍💻 Estudante de IA & RPA 🤖 </h2>
+  <h2 style="color: #0A2463;"> 👩‍💻 Desenvolvedor JAVA & Eng.IA 🤖 </h2>
   
   <img src="https://i.pinimg.com/originals/cd/53/2c/cd532c58909c2565575775f284988716.gif" width="80%" style="border-radius: 15px; border: 2px solid #0A2463;" alt="AI Neural Network Animation"/>
 </div>
