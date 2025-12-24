@@ -110,7 +110,7 @@
 
 <h3 align="center" style="color: #0A2463;">👾 Minhas Contribuições (Pac-Man & Fantasmas)</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman-contribution-graph.svg?v=dark_mode_v1" alt="Pac-Man Graph" width="100%">
+  <img src="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman-contribution-graph.svg?v=agora_vai_dark" alt="Pac-Man Graph" width="100%">
 </div>
 
 <br>
