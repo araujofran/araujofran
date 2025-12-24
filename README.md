@@ -1,31 +1,59 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Fran!;Desenvolvedor+JAVA+Engenheiro+de+IA+%F0%9F%91%BE;+%26+RPA+%F0%9F%A4%96;Bem-vindo+ao+meu+universo!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A2463&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+eu+sou+a+Fran!;Devoradora+de+Dados+%F0%9F%91%BE;Estudante+de+IA+%26+RPA+%F0%9F%A4%96;Bem-vinda+ao+meu+universo+Cyberpunk!" alt="Typing SVG" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGZ6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6/qgQUggAC3PXPJ5Xxse/giphy.gif" width="100%" height="150px" style="object-fit:cover; border-radius: 10px; opacity: 0.8;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGZ6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6/qgQUggAC3PXPJ5Xxse/giphy.gif" width="100%" height="150px" style="object-fit:cover; border-radius: 10px; opacity: 0.8; border: 1px solid #00F0FF;">
 </div>
 
-<h3 align="center">🤖 Transformando café em código e dados em inteligência</h3>
+<h3 align="center" style="color: #0A2463;">🤖 Transformando café em código e dados em inteligência</h3>
 
 <p align="center">
  Sou estudante de Inteligência Artificial focada em resolver problemas reais. Atualmente mergulhada no mundo dos <b>Algoritmos Genéticos</b>, <b>Visão Computacional</b> e <b>Automação Robótica (RPA)</b>.
 </p>
 
----
+<br>
 
-### 🛠️ Arsenal Tecnológico
-
+<h3 align="center" style="color: #0A2463;">🛠️ Painel de Controle Tecnológico</h3>
 <div align="center">
-
-| **Linguagens & IA** | **Dados & Banco** | **Automação & Ferramentas** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <br> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> | <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> | <img src="https://img.shields.io/badge/Automation%20Anywhere-orange?style=for-the-badge&logo=automationanywhere&logoColor=white"/> <br> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> | <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> |
-
+<table style="border-collapse: collapse; border: 2px solid #00F0FF; background-color: #0d1117; color: #c9d1d9; width: 90%;">
+  <thead>
+    <tr style="background-color: #0A2463;">
+      <th style="border: 1px solid #00F0FF; padding: 10px; color: #00F0FF; text-transform: uppercase; letter-spacing: 1px;">🧠 Linguagens & IA</th>
+      <th style="border: 1px solid #00F0FF; padding: 10px; color: #00F0FF; text-transform: uppercase; letter-spacing: 1px;">💾 Dados & Banco</th>
+      <th style="border: 1px solid #00F0FF; padding: 10px; color: #00F0FF; text-transform: uppercase; letter-spacing: 1px;">🤖 Automação & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: 1px solid #00F0FF; padding: 15px; vertical-align: top;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/><br>
+        <br>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      </td>
+      <td align="center" style="border: 1px solid #00F0FF; padding: 15px; vertical-align: top;">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><br>
+        <br>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      </td>
+      <td align="center" style="border: 1px solid #00F0FF; padding: 15px; vertical-align: top;">
+        <img src="https://img.shields.io/badge/Automation%20Anywhere-orange?style=for-the-badge&logo=automationanywhere&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/><br>
+        <br>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
+
+<br>
 
 ---
 
@@ -54,12 +82,12 @@
 
 <br>
 
-<h3 align="center">👾 Minhas Contribuições (Game Mode)</h3>
+<h3 align="center" style="color: #0A2463;">👾 Minhas Contribuições (Game Mode)</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/araujofran/araujofran/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/araujofran/araujofran/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/araujofran/araujofran/blob/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="github contribution grid snake animation" src="https://github.com/araujofran/araujofran/blob/output/github-contribution-grid-snake.svg" width="100%" style="border: 1px solid #00F0FF; border-radius: 10px;">
   </picture>
 </div>
 
