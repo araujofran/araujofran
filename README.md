@@ -62,58 +62,6 @@ Sou <b>pós-graduado em Engenharia de Inteligência Artificial</b> e atualmente 
 </p>
 
 <div align="center">
-  <table>
-    <tr>
-      <!-- JAVA (CARRO-CHEFE) -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" />
-      </td>
-
-      <!-- SPRING (BACKEND) -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" />
-      </td>
-
-      <!-- PYTHON / IA -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
-      </td>
-
-      <!-- LLM / RAG (OPENAI via BADGE) -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="36"/>
-      </td>
-
-      <!-- LANGCHAIN (BADGE – não quebra) -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://img.shields.io/badge/LangChain-0A2463?style=for-the-badge&logo=chainlink&logoColor=white" height="36"/>
-      </td>
-
-      <!-- AWS -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" />
-      </td>
-
-      <!-- POSTGRES -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" />
-      </td>
-
-      <!-- GIT -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
-      </td>
-
-      <!-- DOCKER -->
-      <td align="center" style="padding: 0 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<div align="center">
   
   <img src="https://i.pinimg.com/originals/cd/53/2c/cd532c58909c2565575775f284988716.gif" width="80%" style="border-radius: 15px; border: 2px solid #0A2463;" alt="AI Neural Network Animation"/>
 </div>
