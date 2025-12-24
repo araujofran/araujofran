@@ -108,12 +108,12 @@
 
 <br>
 
-<h3 align="center" style="color: #0A2463;">👾 Minhas Contribuições (Game Mode)</h3>
+<h3 align="center" style="color: #0A2463;">👾 Minhas Contribuições (Pac-Man Mode)</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/araujofran/araujofran/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/araujofran/araujofran/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/araujofran/araujofran/blob/output/github-contribution-grid-snake.svg" width="100%" style="border: 1px solid #00F0FF; border-radius: 10px;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman.svg">
+    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman.svg" width="100%">
   </picture>
 </div>
 
