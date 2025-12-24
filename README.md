@@ -64,53 +64,54 @@ Sou <b>pós-graduado em Engenharia de Inteligência Artificial</b> e atualmente 
 <div align="center">
   <table>
     <tr>
-      <!-- JAVA (PRINCIPAL) -->
-      <td align="center">
+      <!-- JAVA (CARRO-CHEFE) -->
+      <td align="center" style="padding: 0 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" />
       </td>
 
-      <!-- BACKEND / ENGINEERING -->
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" />
+      <!-- SPRING (BACKEND) -->
+      <td align="center" style="padding: 0 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" />
       </td>
 
-      <!-- IA / PYTHON -->
-      <td align="center">
+      <!-- PYTHON / IA -->
+      <td align="center" style="padding: 0 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" />
       </td>
 
-      <!-- RAG / LLM -->
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="44" />
+      <!-- LLM / RAG (OPENAI via BADGE) -->
+      <td align="center" style="padding: 0 10px;">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="36"/>
       </td>
 
-      <!-- LANGCHAIN / PIPELINES -->
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="44" />
+      <!-- LANGCHAIN (BADGE – não quebra) -->
+      <td align="center" style="padding: 0 10px;">
+        <img src="https://img.shields.io/badge/LangChain-0A2463?style=for-the-badge&logo=chainlink&logoColor=white" height="36"/>
       </td>
 
-      <!-- CLOUD -->
-      <td align="center">
+      <!-- AWS -->
+      <td align="center" style="padding: 0 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" />
       </td>
 
-      <!-- DATA -->
-      <td align="center">
+      <!-- POSTGRES -->
+      <td align="center" style="padding: 0 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" />
       </td>
 
       <!-- GIT -->
-      <td align="center">
+      <td align="center" style="padding: 0 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
       </td>
 
       <!-- DOCKER -->
-      <td align="center">
+      <td align="center" style="padding: 0 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" />
       </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
   
