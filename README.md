@@ -15,8 +15,14 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" alt="AI Code Animation"/>
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="80%" 
+    style="border-radius: 18px;"
+    alt="Java AI Engineer Animation"
+  />
 </div>
+
 
 
 <div align="center">
