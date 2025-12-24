@@ -8,10 +8,10 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/tech.gif"
-       width="100%"
-       style="border-radius:12px; border:1px solid #00F0FF;" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/code.gif"
+       width="70%" />
 </div>
+
 
 <h3 align="center" style="color: #0A2463;">🤖 Transformando café em código e dados em inteligência</h3>
 
