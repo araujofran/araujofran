@@ -1,20 +1,16 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu GitHub
 
-<!--
-**araujofran/araujofran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Inteligência Artificial e apaixonada por dados e automação. Atualmente estou focada em aprender como aplicar IA para resolver problemas reais.
 
-Here are some ideas to get you started:
+- 🔭 **Atualmente trabalhando em:** Projetos de Reconhecimento Facial e Detecção de Emoções com Python, e automações com RPA (Automation Anywhere).
+- 🌱 **Atualmente aprendendo:** Algoritmos Genéticos (focada em datasets de saúde/cardíacos) e aprimorando técnicas de Engenharia de Prompt.
+- 💻 **Minhas ferramentas:** Python (Pandas, Streamlit, APIs), SQL, R (RStudio/Shiny), Excel Avançado e Tableau Prep.
+- 🚀 **Objetivo:** Desenvolver soluções inteligentes de "Monitoria Inteligente" e análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujofran&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujofran&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=araujofran&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=araujofran&layout=compact&langs_count=7&theme=default"/>
 </div>
