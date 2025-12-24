@@ -8,9 +8,13 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=Java+Developer+%E2%98%95;Intelig%C3%AAncia+Artificial+%F0%9F%A4%96;Arquitetura%2C+Automa%C3%A7%C3%A3o+e+Dados;C%C3%B3digo+de+Produ%C3%A7%C3%A3o+com+IA"
-       alt="Java + IA Banner"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" alt="AI Code Animation"/>
+</div>
+
 
 
 <h3 align="center" style="color: #0A2463;">🤖 Transformando café em código e dados em inteligência</h3>
