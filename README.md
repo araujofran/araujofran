@@ -16,12 +16,13 @@
 
 <div align="center">
   <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    width="80%" 
-    style="border-radius: 18px;"
-    alt="Java AI Engineer Animation"
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+    width="75%"
+    style="border-radius: 16px;"
+    alt="Neural Network AI Animation"
   />
 </div>
+
 
 
 
