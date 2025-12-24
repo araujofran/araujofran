@@ -108,13 +108,9 @@
 
 <br>
 
-<h3 align="center" style="color: #0A2463;">👾 Minhas Contribuições (Pac-Man Mode)</h3>
+<h3 align="center" style="color: #0A2463;">👾 Minhas Contribuições (Pac-Man & Fantasmas)</h3>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman.svg">
-    <img alt="Pacman Animation" src="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/araujofran/araujofran/output/pacman-contribution-graph.svg" alt="Pac-Man Graph" width="100%">
 </div>
 
 <br>
