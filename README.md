@@ -60,6 +60,60 @@ Atualmente atuo diretamente com <b>Inteligência Artificial aplicada</b>, com ê
 <br><br>
 Sou <b>pós-graduado em Engenharia de Inteligência Artificial</b> e atualmente curso <b>Pós-Graduação em Desenvolvimento em IA pela FIAP</b>, unindo desenvolvimento backend, arquitetura e IA aplicada em ambientes de produção.
 </p>
+<br><br>
+
+<div align="center">
+  <table width="100%" style="max-width: 900px;">
+    <tr>
+      <!-- JAVA -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/>
+      </td>
+
+      <!-- SPRING -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="54" alt="Spring"/>
+      </td>
+
+      <!-- PYTHON -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
+      </td>
+
+      <!-- OPENAI -->
+      <td align="center">
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
+      </td>
+
+      <!-- RAG -->
+      <td align="center">
+        <img src="https://img.shields.io/badge/RAG%20%7C%20LLMs-0A2463?style=flat&logo=chainlink&logoColor=white" alt="RAG LLMs"/>
+      </td>
+
+      <!-- AWS (CORRIGIDO - SHIELDS) -->
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
+      </td>
+
+      <!-- POSTGRES -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+      </td>
+
+      <!-- GIT -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
+      </td>
+
+      <!-- DOCKER -->
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
 
 
 <div align="center">
