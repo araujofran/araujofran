@@ -1,11 +1,8 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
-  # Executa automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *" 
-  
-  # Permite executar manualmente
   workflow_dispatch:
 
 jobs:
@@ -14,13 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: Generate Snake
+      - name: Generate Pacman
         uses: Platane/snk@v3
         with:
           github_user_name: araujofran
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/pacman.svg?palette=github-dark&color_snake=#fed700&color_dots=#0d1117,#272b33,#39d353,#26a641,#006d32
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
