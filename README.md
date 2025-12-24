@@ -4,7 +4,6 @@
     <h2 align="center">☕ Desenvolvedor Java + 🤖 Inteligência Artificial</h2>
 <h4 align="center">Desenvolvimento • Inteligencia Artifical • Automação • Machine Learning</h4>
 
-
   </a>
 </div>
 
@@ -15,18 +14,32 @@
 </div>
 
 <div align="center">
-  <img 
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
-    width="20%"
-    style="border-radius: 16px;"
-    alt="Neural Network AI Animation"
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img 
+          src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+          width="250"
+          alt="Java AI Engineer"
+        />
+      </td>
+      <td align="center">
+        <img 
+          src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
+          width="250"
+          alt="Neural Network AI"
+        />
+      </td>
+      <td align="center">
+        <img 
+          src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
+          width="250"
+          alt="Java Developer Coding"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
-
-
-
-
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -35,7 +48,6 @@
 <br>
 
 <div align="center">
-  <h2 style="color: #0A2463;"> 👩‍💻 Sejam Bem Vindo!!!! 🤖 </h2>
   
   <img src="https://i.pinimg.com/originals/cd/53/2c/cd532c58909c2565575775f284988716.gif" width="80%" style="border-radius: 15px; border: 2px solid #0A2463;" alt="AI Neural Network Animation"/>
 </div>
