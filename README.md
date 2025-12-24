@@ -63,33 +63,50 @@ Sou <b>pós-graduado em Engenharia de Inteligência Artificial</b> e atualmente 
 <br><br>
 
 <div align="center">
-  <table>
+  <table width="100%" style="max-width: 900px;">
     <tr>
-      <td align="center" width="60">
+      <!-- JAVA -->
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/>
       </td>
-      <td align="center" width="70">
+
+      <!-- SPRING -->
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="54" alt="Spring"/>
       </td>
-      <td align="center" width="60">
+
+      <!-- PYTHON -->
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
       </td>
-      <td align="center" width="90">
+
+      <!-- OPENAI -->
+      <td align="center">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
       </td>
-      <td align="center" width="110">
+
+      <!-- RAG -->
+      <td align="center">
         <img src="https://img.shields.io/badge/RAG%20%7C%20LLMs-0A2463?style=flat&logo=chainlink&logoColor=white" alt="RAG LLMs"/>
       </td>
-      <td align="center" width="60">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="42" alt="AWS"/>
+
+      <!-- AWS (CORRIGIDO - SHIELDS) -->
+      <td align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
       </td>
-      <td align="center" width="60">
+
+      <!-- POSTGRES -->
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
       </td>
-      <td align="center" width="60">
+
+      <!-- GIT -->
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
       </td>
-      <td align="center" width="60">
+
+      <!-- DOCKER -->
+      <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
       </td>
     </tr>
@@ -97,6 +114,7 @@ Sou <b>pós-graduado em Engenharia de Inteligência Artificial</b> e atualmente 
 </div>
 
 <br><br>
+
 <div align="center">
   
   <img src="https://i.pinimg.com/originals/cd/53/2c/cd532c58909c2565575775f284988716.gif" width="80%" style="border-radius: 15px; border: 2px solid #0A2463;" alt="AI Neural Network Animation"/>
