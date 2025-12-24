@@ -46,12 +46,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  
-  <img src="https://i.pinimg.com/originals/cd/53/2c/cd532c58909c2565575775f284988716.gif" width="80%" style="border-radius: 15px; border: 2px solid #0A2463;" alt="AI Neural Network Animation"/>
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
@@ -62,6 +56,12 @@
 <p align="center">
  Sou estudante de Inteligência Artificial focada em resolver problemas reais. Atualmente mergulhada no mundo dos <b>Algoritmos Genéticos</b>, <b>Visão Computacional</b> e <b>Automação Robótica (RPA)</b>.
 </p>
+
+<div align="center">
+  
+  <img src="https://i.pinimg.com/originals/cd/53/2c/cd532c58909c2565575775f284988716.gif" width="80%" style="border-radius: 15px; border: 2px solid #0A2463;" alt="AI Neural Network Animation"/>
+</div>
+
 
 <br>
 
