@@ -17,7 +17,7 @@
 <div align="center">
   <img 
     src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" 
-    width="85%"
+    width="20%"
     style="border-radius: 16px;"
     alt="Neural Network AI Animation"
   />
