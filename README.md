@@ -11,9 +11,11 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/tech.gif"
-       width="100%"
-       style="border-radius:12px; border:1px solid #00F0FF;" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" alt="AI Code Animation"/>
 </div>
 
 
