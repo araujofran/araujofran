@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0A2463&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Fran!;Desenvolvedor+Java+%E2%98%95+%2B+Engenheiro+de+IA+%F0%9F%A4%96;Bem-Vindo+ao+Mundo+do+Desenvolvimento+JAVA+com+IA" alt="Typing SVG" />
-    <h2 align="center">☕ Desenvolvedor Java + 🤖 Inteligência Artificial</h2>
+    <h2 align="center">☕ Desenvolvedor Python + 🤖 Inteligência Artificial</h2>
 <h4 align="center">Desenvolvimento • Inteligencia Artifical • Automação • Machine Learning</h4>
 
   </a>
@@ -20,7 +20,7 @@
         <img 
           src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
           width="250"
-          alt="Java AI Engineer"
+          alt="Python AI Engineer"
         />
       </td>
       <td align="center">
@@ -34,7 +34,7 @@
         <img 
           src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" 
           width="250"
-          alt="Java Developer Coding"
+          alt="Python Developer Coding"
         />
       </td>
     </tr>
@@ -54,7 +54,7 @@
 <h3 align="center" style="color: #0A2463;">🤖 Transformando café em código e dados em inteligência</h3>
 
 <p align="center">
-Sou <b>Desenvolvedor Java</b> como base principal da minha atuação, com foco em construção de soluções robustas, escaláveis e orientadas a boas práticas de engenharia de software.
+Sou <b>Desenvolvedor Python</b> como base principal da minha atuação, com foco em construção de soluções robustas, escaláveis e orientadas a boas práticas de engenharia de software.
 <br><br>
 Atualmente atuo diretamente com <b>Inteligência Artificial aplicada</b>, com ênfase em <b>implementações robustas de RAG (Retrieval-Augmented Generation)</b>, integrando LLMs a contextos corporativos reais para automação, análise e suporte à decisão.
 <br><br>
